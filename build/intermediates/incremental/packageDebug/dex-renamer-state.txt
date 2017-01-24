@@ -1,0 +1,7 @@
+#Wed Jan 25 02:34:37 GMT+08:00 2017
+base.0=P\:\\githubDemo\\grafika\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ffdd1cb95cc3f13af146e246f9447ba0a6e4248d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=P\:\\githubDemo\\grafika\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f64ab58afcdc9e1adc25c9be6092e4a1f60908cd\\classes.dex
+base.1=P\:\\githubDemo\\grafika\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f64ab58afcdc9e1adc25c9be6092e4a1f60908cd
+file.0=P\:\\githubDemo\\grafika\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ffdd1cb95cc3f13af146e246f9447ba0a6e4248d\\classes.dex
