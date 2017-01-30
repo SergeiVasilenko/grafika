@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "P:\\githubDemo\\grafika\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "outputFile": "/Volumes/MacintoshHD2/Delargo/Documents/AndroidWork/ar/opengl/grafika/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,33 @@
                     "endOffset": 201
                 },
                 "from": {
-                    "file": "P:\\githubDemo\\grafika\\res\\values-v14\\styles.xml",
+                    "file": "/Volumes/MacintoshHD2/Delargo/Documents/AndroidWork/ar/opengl/grafika/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 366
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Volumes/MacintoshHD2/Delargo/Documents/AndroidWork/ar/opengl/grafika/P:\\githubDemo\\grafika\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Volumes/MacintoshHD2/Delargo/Documents/AndroidWork/ar/opengl/grafika/P:\\githubDemo\\grafika\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,

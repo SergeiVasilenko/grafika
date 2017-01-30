@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="P:\githubDemo\grafika\assets"/><source path="P:\githubDemo\grafika\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="P:\githubDemo\grafika\build-types\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Volumes/MacintoshHD2/Delargo/Documents/AndroidWork/ar/opengl/grafika/assets"/><source path="/Volumes/MacintoshHD2/Delargo/Documents/AndroidWork/ar/opengl/grafika/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Volumes/MacintoshHD2/Delargo/Documents/AndroidWork/ar/opengl/grafika/build-types/debug/assets"/></dataSet></merger>

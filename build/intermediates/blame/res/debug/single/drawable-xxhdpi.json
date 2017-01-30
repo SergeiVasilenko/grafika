@@ -1,6 +1,10 @@
 [
     {
-        "merged": "P:\\githubDemo\\grafika\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
-        "source": "P:\\githubDemo\\grafika\\res\\drawable-xxhdpi\\ic_launcher.png"
+        "merged": "/Volumes/MacintoshHD2/Delargo/Documents/AndroidWork/ar/opengl/grafika/P:\\githubDemo\\grafika\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "/Volumes/MacintoshHD2/Delargo/Documents/AndroidWork/ar/opengl/grafika/P:\\githubDemo\\grafika\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/MacintoshHD2/Delargo/Documents/AndroidWork/ar/opengl/grafika/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Volumes/MacintoshHD2/Delargo/Documents/AndroidWork/ar/opengl/grafika/res/drawable-xxhdpi/ic_launcher.png"
     }
 ]

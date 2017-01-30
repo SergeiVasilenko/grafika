@@ -1,16 +1,205 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b742954f-40b8-45d7-a2cf-8cce7282ee93" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grafika.iml" />
+    <list default="true" id="362213a4-4f42-4fbe-9ebf-8e48182bf3f2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/zip-cache/JXACUF5AWRx4mrqoMtkN6G5uTM0=" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ffdd1cb95cc3f13af146e246f9447ba0a6e4248d/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f64ab58afcdc9e1adc25c9be6092e4a1f60908cd/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_8ac8877dbf4c3ce7b1d35b721f1aae90769b3f88/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/AboutBox.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/AboutBox.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/AspectFrameLayout.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/AspectFrameLayout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/BuildConfig.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/BuildConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CameraCaptureActivity$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CameraCaptureActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CameraCaptureActivity$2.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CameraCaptureActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CameraCaptureActivity$3.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CameraCaptureActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CameraCaptureActivity$4.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CameraCaptureActivity$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CameraCaptureActivity$CameraHandler.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CameraCaptureActivity$CameraHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CameraCaptureActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CameraCaptureActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CameraSurfaceRenderer.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CameraSurfaceRenderer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CameraUtils.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CameraUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ChorTestActivity$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ChorTestActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ChorTestActivity$ChorRenderThread$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ChorTestActivity$ChorRenderThread$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ChorTestActivity$ChorRenderThread.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ChorTestActivity$ChorRenderThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ChorTestActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ChorTestActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CircularEncoder$Callback.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CircularEncoder$Callback.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CircularEncoder$EncoderThread$EncoderHandler.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CircularEncoder$EncoderThread$EncoderHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CircularEncoder$EncoderThread.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CircularEncoder$EncoderThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CircularEncoder.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CircularEncoder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CircularEncoderBuffer.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CircularEncoderBuffer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CodecOpenActivity$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CodecOpenActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CodecOpenActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/CodecOpenActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ColorBarActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ColorBarActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/Content.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/Content.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ContentManager$GenerateTask$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ContentManager$GenerateTask$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ContentManager$GenerateTask.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ContentManager$GenerateTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ContentManager$ProgressUpdater.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ContentManager$ProgressUpdater.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ContentManager.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ContentManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ContinuousCaptureActivity$MainHandler.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ContinuousCaptureActivity$MainHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ContinuousCaptureActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ContinuousCaptureActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/DoubleDecodeActivity$PlayMovieThread.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/DoubleDecodeActivity$PlayMovieThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/DoubleDecodeActivity$VideoBlob.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/DoubleDecodeActivity$VideoBlob.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/DoubleDecodeActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/DoubleDecodeActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/GeneratedMovie.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/GeneratedMovie.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/GlesInfoActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/GlesInfoActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/HardwareScalerActivity$RenderHandler.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/HardwareScalerActivity$RenderHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/HardwareScalerActivity$RenderThread.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/HardwareScalerActivity$RenderThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/HardwareScalerActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/HardwareScalerActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/LiveCameraActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/LiveCameraActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MainActivity$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MainActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MainActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MiscUtils$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MiscUtils$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MiscUtils.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MiscUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MovieEightRects.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MovieEightRects.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MoviePlayer$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MoviePlayer$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MoviePlayer$FrameCallback.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MoviePlayer$FrameCallback.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MoviePlayer$PlayTask$LocalHandler.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MoviePlayer$PlayTask$LocalHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MoviePlayer$PlayTask.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MoviePlayer$PlayTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MoviePlayer$PlayerFeedback.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MoviePlayer$PlayerFeedback.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MoviePlayer.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MoviePlayer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MovieSliders.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MovieSliders.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MultiSurfaceActivity$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MultiSurfaceActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MultiSurfaceActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/MultiSurfaceActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/PlayMovieActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/PlayMovieActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/PlayMovieSurfaceActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/PlayMovieSurfaceActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/R$array.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/R$array.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/R$attr.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/R$dimen.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/R$drawable.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/R$id.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/R$layout.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/R$menu.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/R$string.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/R$style.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/R.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ReadPixelsActivity$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ReadPixelsActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ReadPixelsActivity$ReadPixelsTask.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ReadPixelsActivity$ReadPixelsTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ReadPixelsActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ReadPixelsActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/RecordFBOActivity$ActivityHandler.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/RecordFBOActivity$ActivityHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/RecordFBOActivity$RenderHandler.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/RecordFBOActivity$RenderHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/RecordFBOActivity$RenderThread.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/RecordFBOActivity$RenderThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/RecordFBOActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/RecordFBOActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ScaledDrawable2d.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ScaledDrawable2d.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ScheduledSwapActivity$RenderHandler.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ScheduledSwapActivity$RenderHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ScheduledSwapActivity$RenderThread$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ScheduledSwapActivity$RenderThread$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ScheduledSwapActivity$RenderThread.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ScheduledSwapActivity$RenderThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ScheduledSwapActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/ScheduledSwapActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/SoftInputSurfaceActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/SoftInputSurfaceActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/SpeedControlCallback.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/SpeedControlCallback.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureFromCameraActivity$MainHandler.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureFromCameraActivity$MainHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureFromCameraActivity$RenderHandler.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureFromCameraActivity$RenderHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureFromCameraActivity$RenderThread.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureFromCameraActivity$RenderThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureFromCameraActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureFromCameraActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureMovieEncoder$EncoderConfig.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureMovieEncoder$EncoderConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureMovieEncoder$EncoderHandler.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureMovieEncoder$EncoderHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureMovieEncoder.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureMovieEncoder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureMovieEncoder2$EncoderHandler.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureMovieEncoder2$EncoderHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureMovieEncoder2.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureMovieEncoder2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureUploadActivity$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureUploadActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureUploadActivity$TextureUploadTask.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureUploadActivity$TextureUploadTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureUploadActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureUploadActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureViewCanvasActivity$Renderer.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureViewCanvasActivity$Renderer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureViewCanvasActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureViewCanvasActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureViewGLActivity$Renderer.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureViewGLActivity$Renderer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureViewGLActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/TextureViewGLActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/VideoEncoderCore.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/VideoEncoderCore.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/WorkDialog.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/WorkDialog.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/Drawable2d$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/Drawable2d$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/Drawable2d$Prefab.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/Drawable2d$Prefab.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/Drawable2d.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/Drawable2d.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/EglCore.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/EglCore.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/EglSurfaceBase.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/EglSurfaceBase.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/FlatShadedProgram.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/FlatShadedProgram.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/FullFrameRect.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/FullFrameRect.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/GeneratedTexture$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/GeneratedTexture$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/GeneratedTexture$Image.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/GeneratedTexture$Image.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/GeneratedTexture.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/GeneratedTexture.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/GlUtil.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/GlUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/OffscreenSurface.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/OffscreenSurface.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/Sprite2d.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/Sprite2d.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/Texture2dProgram$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/Texture2dProgram$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/Texture2dProgram$ProgramType.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/Texture2dProgram$ProgramType.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/Texture2dProgram.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/Texture2dProgram.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/WindowSurface.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/android/grafika/gles/WindowSurface.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/build/intermediates/res/resources-debug-androidTest.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/outputs/apk/grafika-debug.apk" afterPath="$PROJECT_DIR$/build/outputs/apk/grafika-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-sw720dp-land-v13.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-sw720dp-land-v13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-v11.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-v11.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-v14.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values-v14.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi/values.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-hdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-hdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-mdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-mdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/layout-land.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/layout-land.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/layout.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/menu.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/menu.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grafika.iml" afterPath="$PROJECT_DIR$/grafika.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
     </list>
     <ignored path="grafika.iws" />
     <ignored path=".idea/workspace.xml" />
-    <ignored path="$PROJECT_DIR$/build/classes/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/assets/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/blame/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/classes/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/dependency-cache/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/dex-cache/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/incremental/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/incremental-classes/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/incremental-runtime-classes/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/incremental-safeguard/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/incremental-verifier/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/instant-run-resources/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/instant-run-support/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/jniLibs/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/manifests/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/reload-dex/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/res/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/restart-dex/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/rs/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/shaders/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/symbols/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/transforms/" />
+    <ignored path="$PROJECT_DIR$/build/outputs/" />
+    <ignored path="$PROJECT_DIR$/build/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,111 +228,72 @@
     <favorites_list name="grafika" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="RecordFBOActivity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/android/grafika/RecordFBOActivity.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="local.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="556" column="33" selection-start-line="556" selection-start-column="33" selection-end-line="556" selection-end-column="33" />
-              <folding>
-                <element signature="e#10355#10415#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TextureMovieEncoder2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/android/grafika/TextureMovieEncoder2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="122" column="23" selection-start-line="122" selection-start-column="23" selection-end-line="122" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#7183#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TextureMovieEncoder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/android/grafika/TextureMovieEncoder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-779">
-              <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WindowSurface.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/android/grafika/gles/WindowSurface.java">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EglSurfaceBase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/android/grafika/gles/EglSurfaceBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+            <state relative-caret-position="51">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VideoEncoderCore.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/android/grafika/VideoEncoderCore.java">
+      <file leaf-file-name="project.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="65" column="66" selection-start-line="65" selection-start-column="66" selection-end-line="65" selection-end-column="66" />
-              <folding>
-                <element signature="e#4045#4046#0" expanded="true" />
-                <element signature="e#4081#4082#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MiscUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/android/grafika/MiscUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="80" column="7" selection-start-line="80" selection-start-column="7" selection-end-line="80" selection-end-column="7" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Context.java" pinned="false" current-in-tab="false">
-        <entry file="file://P:/AndroidSDK/sources/android-19/android/content/Context.java">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="2015" column="43" selection-start-line="2015" selection-start-column="43" selection-end-line="2015" selection-end-column="43" />
+            <state relative-caret-position="340">
+              <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Activity.java" pinned="false" current-in-tab="false">
-        <entry file="file://P:/AndroidSDK/sources/android-19/android/app/Activity.java">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/android/grafika/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="4529" column="18" selection-start-line="4529" selection-start-column="18" selection-end-line="4529" selection-end-column="18" />
+            <state relative-caret-position="918">
+              <caret line="83" column="34" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WindowManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://P:/AndroidSDK/sources/android-19/android/view/WindowManager.java">
+      <file leaf-file-name="TextureViewGLActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/android/grafika/TextureViewGLActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="93" column="19" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="19" />
+            <state relative-caret-position="119">
+              <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HardwareScalerActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/android/grafika/HardwareScalerActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5729">
+              <caret line="378" column="44" selection-start-line="378" selection-start-column="44" selection-end-line="378" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -649,6 +799,10 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNative_libsWithStripDebugSymbolForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileReleaseSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -718,6 +872,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="prepareDebugUnitTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNative_libsWithStripDebugSymbolForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -801,7 +959,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="P:\githubDemo\grafika" value="1485282762150" />
+        <entry key="$PROJECT_DIR$" value="1485765359000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1041,11 +1199,19 @@
       <projects_view />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="x" value="1444" />
+    <option name="y" value="-293" />
+    <option name="width" value="1916" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -1072,77 +1238,57 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="AndroidView">
+      <pane id="ProjectPane">
         <subPane />
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
+      <pane id="AndroidView">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="grafika" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="grafika" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="grafika" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grafika" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grafika" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grafika" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grafika" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grafika" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grafika" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.NonAndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="android.sdk.path" value="P:/AndroidSDK" />
-    <property name="device.picker.selection" value="942d096c" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="options.lastSelected" value="Template Data Languages" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../../../../Macintosh HD 2/Delargo/Documents/AndroidWork/android-sdk-macosx" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="device.picker.selection" value="01d4f04888a2bf89" />
   </component>
   <component name="RunManager" selected="Android App.grafika">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -1161,6 +1307,8 @@
       <option name="DEBUGGER_TYPE" value="Auto" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
       <Auto>
         <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
         <option name="WORKING_DIR" value="" />
@@ -1279,6 +1427,8 @@
       <option name="DEBUGGER_TYPE" value="Auto" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
       <Auto>
         <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
         <option name="WORKING_DIR" value="" />
@@ -1327,50 +1477,89 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b742954f-40b8-45d7-a2cf-8cce7282ee93" name="Default" comment="" />
-      <created>1485282601055</created>
+      <changelist id="362213a4-4f42-4fbe-9ebf-8e48182bf3f2" name="Default" comment="" />
+      <created>1485765272410</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1485282601055</updated>
+      <updated>1485765272410</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <frame x="1444" y="-293" width="1916" height="1057" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991317" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17377399" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug with JRebel for Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2132089" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="JRebel for Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android WiFi ADB" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug with JRebel for Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2132089" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="JRebel for Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android WiFi ADB" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -1380,201 +1569,115 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/android/grafika/ReadPixelsActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="623">
-          <caret line="237" column="31" selection-start-line="237" selection-start-column="31" selection-end-line="237" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/grafika/gles/EglCore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/grafika/gles/GlUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/grafika/gles/OffscreenSurface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/grafika/gles/Texture2dProgram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="122" column="31" selection-start-line="122" selection-start-column="31" selection-end-line="122" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/grafika/gles/FullFrameRect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="691">
-          <caret line="86" column="45" selection-start-line="86" selection-start-column="45" selection-end-line="86" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/classes/com/android/grafika/TextureMovieEncoder2.class">
+    <entry file="file://$PROJECT_DIR$/local.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#3970#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/grafika/gles/Drawable2d.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="153" column="1" selection-start-line="153" selection-start-column="1" selection-end-line="153" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/grafika/gles/Sprite2d.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="177" column="17" selection-start-line="177" selection-start-column="17" selection-end-line="177" selection-end-column="17" />
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/grafika/gles/FlatShadedProgram.java">
+    <entry file="file://$PROJECT_DIR$/project.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="691">
-          <caret line="116" column="24" selection-start-line="116" selection-start-column="24" selection-end-line="116" selection-end-column="24" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://P:/AndroidSDK/sources/android-19/android/view/Choreographer.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="192" column="34" selection-start-line="192" selection-start-column="34" selection-end-line="192" selection-end-column="34" />
-          <folding>
-            <element signature="e#7870#7871#0" expanded="false" />
-            <element signature="e#7914#7915#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://P:/AndroidSDK/sources/android-19/android/view/Display.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="564" column="38" selection-start-line="564" selection-start-column="38" selection-end-line="564" selection-end-column="38" />
+        <state relative-caret-position="340">
+          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://P:/AndroidSDK/sources/android-19/android/view/DisplayInfo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/android/grafika/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="279" column="31" selection-start-line="279" selection-start-column="31" selection-end-line="279" selection-end-column="31" />
+        <state relative-caret-position="918">
+          <caret line="83" column="34" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://P:/AndroidSDK/sources/android-19/android/view/WindowManager.java">
+    <entry file="file://$PROJECT_DIR$/src/com/android/grafika/TextureViewGLActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="93" column="19" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="19" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://P:/AndroidSDK/sources/android-19/android/app/Activity.java">
+    <entry file="file://$PROJECT_DIR$/src/com/android/grafika/HardwareScalerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="4529" column="18" selection-start-line="4529" selection-start-column="18" selection-end-line="4529" selection-end-column="18" />
+        <state relative-caret-position="5729">
+          <caret line="378" column="44" selection-start-line="378" selection-start-column="44" selection-end-line="378" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://P:/AndroidSDK/sources/android-19/android/content/Context.java">
+    <entry file="file://$PROJECT_DIR$/local.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="2015" column="43" selection-start-line="2015" selection-start-column="43" selection-end-line="2015" selection-end-column="43" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/grafika/MiscUtils.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="80" column="7" selection-start-line="80" selection-start-column="7" selection-end-line="80" selection-end-column="7" />
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/grafika/TextureMovieEncoder.java">
+    <entry file="file://$PROJECT_DIR$/project.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-779">
-          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/grafika/TextureMovieEncoder2.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="122" column="23" selection-start-line="122" selection-start-column="23" selection-end-line="122" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#7183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/grafika/VideoEncoderCore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="65" column="66" selection-start-line="65" selection-start-column="66" selection-end-line="65" selection-end-column="66" />
-          <folding>
-            <element signature="e#4045#4046#0" expanded="true" />
-            <element signature="e#4081#4082#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/grafika/gles/EglSurfaceBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+        <state relative-caret-position="340">
+          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/grafika/gles/WindowSurface.java">
+    <entry file="file://$PROJECT_DIR$/src/com/android/grafika/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="918">
+          <caret line="83" column="34" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/android/grafika/RecordFBOActivity.java">
+    <entry file="file://$PROJECT_DIR$/src/com/android/grafika/HardwareScalerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="556" column="33" selection-start-line="556" selection-start-column="33" selection-end-line="556" selection-end-column="33" />
-          <folding>
-            <element signature="e#10355#10415#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="5729">
+          <caret line="378" column="44" selection-start-line="378" selection-start-column="44" selection-end-line="378" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/android/grafika/TextureViewGLActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

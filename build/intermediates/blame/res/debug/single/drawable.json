@@ -1,6 +1,10 @@
 [
     {
-        "merged": "P:\\githubDemo\\grafika\\build\\intermediates\\res\\merged\\debug\\drawable\\back.xml",
-        "source": "P:\\githubDemo\\grafika\\res\\drawable\\back.xml"
+        "merged": "/Volumes/MacintoshHD2/Delargo/Documents/AndroidWork/ar/opengl/grafika/build/intermediates/res/merged/debug/drawable/back.xml",
+        "source": "/Volumes/MacintoshHD2/Delargo/Documents/AndroidWork/ar/opengl/grafika/res/drawable/back.xml"
+    },
+    {
+        "merged": "/Volumes/MacintoshHD2/Delargo/Documents/AndroidWork/ar/opengl/grafika/P:\\githubDemo\\grafika\\build\\intermediates\\res\\merged\\debug\\drawable\\back.xml",
+        "source": "/Volumes/MacintoshHD2/Delargo/Documents/AndroidWork/ar/opengl/grafika/P:\\githubDemo\\grafika\\res\\drawable\\back.xml"
     }
 ]

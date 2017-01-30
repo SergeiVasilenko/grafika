@@ -2,31 +2,13 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="P:\githubDemo\grafika\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Volumes/MacintoshHD2/Delargo/Documents/AndroidWork/ar/opengl/grafika/libs/android-support-v4.jar"
+        jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="eda153ce0704f78672468cea7fcc84a85f1557cd">
-        <dex dex="P:\githubDemo\grafika\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f64ab58afcdc9e1adc25c9be6092e4a1f60908cd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="P:\githubDemo\grafika\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5152eafc1b338b4e17b5760512a964f2ab2ac386">
-        <dex dex="P:\githubDemo\grafika\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ffdd1cb95cc3f13af146e246f9447ba0a6e4248d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="P:\githubDemo\grafika\libs\android-support-v4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
+        revision="25.0.2"
         sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
-        <dex dex="P:\githubDemo\grafika\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_8ac8877dbf4c3ce7b1d35b721f1aae90769b3f88\classes.dex" />
+        <dex dex="/Volumes/MacintoshHD2/Delargo/Documents/AndroidWork/ar/opengl/grafika/build/intermediates/pre-dexed/debug/android-support-v4_ce14fbc1b034ead547e2ba3f18808191370aa0c3.jar" />
     </item>
 
 </items>
