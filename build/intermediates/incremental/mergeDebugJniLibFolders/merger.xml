@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Volumes/MacintoshHD2/Delargo/Documents/AndroidWork/ar/opengl/grafika/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Volumes/MacintoshHD2/Delargo/Documents/AndroidWork/ar/opengl/grafika/build-types/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Volumes/MacintoshHD2/Delargo/Documents/AndroidWork/tmp/grafika/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Volumes/MacintoshHD2/Delargo/Documents/AndroidWork/tmp/grafika/build-types/debug/jniLibs"/></dataSet></merger>
